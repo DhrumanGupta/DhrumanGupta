@@ -8,22 +8,18 @@
 </a>
 
 <br />  
-<br />
+<br />  
   
 Hello! I am [Dhruman Gupta](https://berlm.me/), a passionate self-taught developer. I love creating programs that help me or others do things faster. In addition, I enjoy developing logic and creating interfaces to use them.  
 
-I treasure learning more and understanding how to program better architecturally and in terms of efficiency.
+I treasure learning more and understanding how to program better architecturally and in terms of efficiency.  
+<br />
 
-📊 **This Week I Spent My Time On:**
+📊 **This Week I Spent My Time On:**  
 <!--START_SECTION:waka-->
-```text
-JSX          5 hrs 45 mins   ██████████▒░░░░░░░░░░░░░░   41.84 % 
-SCSS         2 hrs 45 mins   █████░░░░░░░░░░░░░░░░░░░░   20.07 % 
-JavaScript   2 hrs 21 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.12 % 
-C#           1 hr 59 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.50 % 
-Git Config   15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
-```
 <!--END_SECTION:waka-->
+<br />  
 
 📈 **My GitHub Stats**:  
+
 [![Berlm's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhrumanberlm&theme=gotham&show_icons=true&count_private=true)](https://berlm.me)
