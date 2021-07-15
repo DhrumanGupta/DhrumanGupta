@@ -29,4 +29,4 @@ JSX          37 mins         █░░░░░░░░░░░░░░░░
 
 📈 **My GitHub Stats**:  
 
-[![Berlm's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhrumanberlm&theme=gotham&show_icons=true&count_private=true)](https://berlm.me)
+[![Berlm's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhrumangupta&theme=gotham&show_icons=true&count_private=true)](https://berlm.me)
