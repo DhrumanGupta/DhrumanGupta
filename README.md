@@ -15,7 +15,6 @@ Hello! I am [Dhruman Gupta](https://berlm.me/), a passionate self-taught develop
 I treasure learning more and understanding how to program better architecturally and in terms of efficiency.  
 <br />
 
-📊 **This Week I Spent My Time On:**  
 <!--START_SECTION:waka-->
 **I'm a Night 🦉** 
 
