@@ -17,11 +17,10 @@ I treasure learning more and understanding how to program better architecturally
 
 <!--START_SECTION:waka-->
 ```text
-Python       52 mins         ███████████████▒░░░░░░░░░   60.78 % 
-C#           13 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.16 % 
-Git Config   6 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 % 
-Markdown     5 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.43 % 
-JavaScript   4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.86 % 
+Python       1 hr 48 mins    ███████████████████▓░░░░░   78.72 % 
+JSON         13 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
+C#           13 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.48 % 
+Git Config   2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
 ```
 <!--END_SECTION:waka-->
 <br />  
