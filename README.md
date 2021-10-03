@@ -17,7 +17,7 @@ I treasure learning more and understanding how to program better architecturally
 
 <!--START_SECTION:waka-->
 ```text
-Python   1 hr 39 mins    █████████████████████████   99.93 % 
+Python   1 hr 38 mins    █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 <br />  
