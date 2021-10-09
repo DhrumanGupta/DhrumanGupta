@@ -3,7 +3,7 @@
 <a href="https://itch.io/profile/berlm">
   <img align="left" alt="Berlm's Itch" width="22px" src="/assets/itch-io.svg" />
 </a>
-<a href="mailto:ceo@berlm.me">
+<a href="mailto:me@berlm.me">
   <img align="left" alt="Email Berlm" width="22px" src="/assets/envelope.svg" />
 </a>
 
