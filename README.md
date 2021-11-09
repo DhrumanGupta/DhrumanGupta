@@ -17,10 +17,7 @@ I treasure learning more and understanding how to program better architecturally
 
 <!--START_SECTION:waka-->
 ```text
-JSX          21 mins         ████████████████▒░░░░░░░░   65.55 % 
-JavaScript   5 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.52 % 
-SCSS         3 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.50 % 
-CSS          1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 <br />  
