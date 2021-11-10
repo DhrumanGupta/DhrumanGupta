@@ -17,7 +17,7 @@ I treasure learning more and understanding how to program better architecturally
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+C#           1 min           ████████████████████████▓   98.25 % 
 ```
 <!--END_SECTION:waka-->
 <br />  
