@@ -17,11 +17,11 @@ I treasure learning more and understanding how to program better architecturally
 
 <!--START_SECTION:waka-->
 ```text
-JSX          4 hrs 31 mins   ██████████░░░░░░░░░░░░░░░   40.53 % 
-Python       3 hrs 53 mins   ████████▓░░░░░░░░░░░░░░░░   34.79 % 
-C#           1 hr 18 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.67 % 
-JavaScript   47 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.13 % 
-SCSS         20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.05 % 
+Python       4 hrs 37 mins   ████████▒░░░░░░░░░░░░░░░░   33.25 % 
+JSX          4 hrs 17 mins   ███████▓░░░░░░░░░░░░░░░░░   30.84 % 
+C#           3 hrs 8 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.56 % 
+JavaScript   47 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.73 % 
+YAML         22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.66 % 
 ```
 <!--END_SECTION:waka-->
 <br />  
