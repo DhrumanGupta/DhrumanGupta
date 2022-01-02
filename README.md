@@ -30,4 +30,4 @@ JavaScript   18 mins         █▒░░░░░░░░░░░░░░░
   
 [![Berlm's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhrumangupta&theme=gotham&show_icons=true&count_private=true)](https://berlm.me)  
   
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=DhrumanGupa&theme=dark">  
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=DhrumanGupta&theme=dark">  
