@@ -25,7 +25,9 @@ JavaScript   18 mins         █▒░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 <br />  
-
+  
 📈 **My GitHub Stats**:  
-
-[![Berlm's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhrumangupta&theme=gotham&show_icons=true&count_private=true)](https://berlm.me)
+  
+[![Berlm's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhrumangupta&theme=gotham&show_icons=true&count_private=true)](https://berlm.me)  
+  
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=DhrumanGupa&theme=dark">  
