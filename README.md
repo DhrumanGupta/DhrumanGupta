@@ -17,9 +17,7 @@ I treasure learning more and understanding how to program better architecturally
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   1 hr 8 mins     ████████████████████▒░░░░   80.88 % 
-Python       11 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.94 % 
-C#           4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.16 % 
+Python       1 hr 40 mins    █████████████████████████   99.78 % 
 ```
 <!--END_SECTION:waka-->
 <br />  
