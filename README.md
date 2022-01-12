@@ -17,7 +17,9 @@ I treasure learning more and understanding how to program better architecturally
 
 <!--START_SECTION:waka-->
 ```text
-Python       1 hr 40 mins    █████████████████████████   99.78 % 
+Python       1 hr 40 mins    ███████████████████████▒░   92.73 % 
+C#           6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.80 % 
+Git Config   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
 ```
 <!--END_SECTION:waka-->
 <br />  
