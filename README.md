@@ -17,10 +17,8 @@ I treasure learning more and understanding how to program better architecturally
 
 <!--START_SECTION:waka-->
 ```text
-C#               6 mins          █████████████▓░░░░░░░░░░░   54.67 % 
-Markdown         2 mins          █████░░░░░░░░░░░░░░░░░░░░   19.58 % 
-GitIgnore file   1 min           ███▒░░░░░░░░░░░░░░░░░░░░░   12.69 % 
-Git Config       1 min           ███░░░░░░░░░░░░░░░░░░░░░░   12.01 % 
+Markdown         2 mins          ██████████████▓░░░░░░░░░░   58.79 % 
+GitIgnore file   1 min           █████████▓░░░░░░░░░░░░░░░   38.08 % 
 ```
 <!--END_SECTION:waka-->
 <br />  
