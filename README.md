@@ -17,9 +17,11 @@ I treasure learning more and understanding how to program better architecturally
 
 <!--START_SECTION:waka-->
 ```text
-Markdown         1 hr 3 mins     ██████████████████████░░░   88.62 % 
-Text             4 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.63 % 
-JSON             1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
+Markdown   2 hrs 30 mins   ███████████████████████░░   91.59 % 
+Text       4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
+Bash       4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
+YAML       1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
+JSON       1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
 ```
 <!--END_SECTION:waka-->
 <br />  
