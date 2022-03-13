@@ -14,7 +14,6 @@ Hello! I am [Dhruman Gupta](https://berlm.me/), a passionate self-taught develop
   
   📈 **My GitHub Stats**:  
     
-<br />
 
 <!--START_SECTION:waka-->
 
