@@ -18,12 +18,12 @@ Hello! I am [Dhruman Gupta](https://berlm.me/), a passionate self-taught develop
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   5 hrs 39 mins   ████████████████▒░░░░░░░░   65.55 %
-MDX          1 hr 30 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.43 %
-JavaScript   1 hr 5 mins     ███░░░░░░░░░░░░░░░░░░░░░░   12.55 %
-CSS          10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.01 %
-HTML         8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.66 %
-JSON         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
+TypeScript   4 hrs 19 mins   ███████████████▓░░░░░░░░░   63.00 %
+MDX          1 hr 20 mins    █████░░░░░░░░░░░░░░░░░░░░   19.47 %
+JavaScript   1 hr            ███▓░░░░░░░░░░░░░░░░░░░░░   14.60 %
+HTML         8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.09 %
+CSS          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
+JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
 ```
 
 <!--END_SECTION:waka-->
