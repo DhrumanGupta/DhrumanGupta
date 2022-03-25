@@ -12,22 +12,13 @@
   
 Hello! I am [Dhruman Gupta](https://berlm.me/), a passionate self-taught developer. I love creating programs that help me or others do things faster. In addition, I enjoy developing logic and creating interfaces to use them.  
   
-  📈 **My GitHub Stats**:  
-    
-
-<!--START_SECTION:waka-->
-
-```text
-JavaScript   1 hr 10 mins    ███████████████████████░░   92.61 %
-Bash         2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 %
-TypeScript   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 %
-MDX          0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 %
-JSON         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
-CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
-```
-
-<!--END_SECTION:waka-->
-<br />  
+Languages:  
   
+![My Skills](https://skillicons.dev/icons?i=cs,py,js,ts,html,css)  
+  
+<br/>  
+Tools and Frameworks:  
+  
+![My Skills](https://skillicons.dev/icons?i=react,nextjs,nodejs,git,prisma,mongodb,postgres,docker,nginx,vscode,linux,discord,bots,cs,dotnet,unity,blender)
   
 ![trophies](https://github-profile-trophy.vercel.app/?username=DhrumanGupta&theme=onestar&column=4&margin-w=10&margin-h=10)  
