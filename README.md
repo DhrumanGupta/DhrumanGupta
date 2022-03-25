@@ -16,7 +16,7 @@ Languages:
 ![My Skills](https://skillicons.dev/icons?i=cs,py,js,ts,html,css)  
   
 Tools and Frameworks:  
-![My Skills](https://skillicons.dev/icons?i=react,nextjs,nodejs,git,prisma,mongodb,postgres,docker,nginx,vscode,linux,discord,bots,cs,dotnet,unity,blender)
+![My Skills](https://skillicons.dev/icons?i=react,nextjs,tailwind,sass,nodejs,git,prisma,mongodb,postgres,docker,nginx,vscode,linux,discord,bots,cs,dotnet,unity,blender)
   
   
 ![trophies](https://github-profile-trophy.vercel.app/?username=DhrumanGupta&theme=onestar&column=4&margin-w=10&margin-h=10)  
