@@ -1,23 +1,11 @@
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# Hey there, I'm Dhruman Gupta <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<a href="https://itch.io/profile/berlm">
-  <img align="left" alt="Berlm's Itch" width="22px" src="/assets/itch-io.svg" />
-</a>
-<a href="mailto:me@berlm.me">
-  <img align="left" alt="Email Berlm" width="22px" src="/assets/envelope.svg" />
-</a>
+Hello! I am [Dhruman Gupta](https://berlm.me/), a passionate self-taught developer. I am currently studying Computer Science @ Ashoka - I'm a sophomore there.
 
-<br />  
-<br />  
-  
-Hello! I am [Dhruman Gupta](https://berlm.me/), a passionate self-taught developer. I love creating programs that help me or others do things faster. In addition, I enjoy developing logic and creating interfaces to use them.  
-  
-View my resume here: [Resume](https://berlm.me/resume)
+## About me
 
-Languages:  
-![My Skills](https://skillicons.dev/icons?i=cs,py,js,ts,html,css)
+I'm always interested in learning more about technology, and studying deeper about Computer Science and math. Here you can find some open-source projects of mine, that I find cool.
 
-Tools and Frameworks:  
-![My Skills](https://skillicons.dev/icons?i=react,nextjs,tailwind,sass,nodejs,git,prisma,mongodb,postgres,docker,nginx,vscode,linux,discord,bots,cs,dotnet,unity,blender)
+## Connect with me
 
-![trophies](https://github-profile-trophy.vercel.app/?username=DhrumanGupta&theme=onestar&column=4&margin-w=10&margin-h=10)
+If you'd like to connect, please email me at [dhrumangupta06@gmail.com](mailto:dhrumangupta06@gmail.com)
