@@ -1,0 +1,208 @@
+\documentclass[letterpaper,11pt]{article}
+\usepackage{latexsym}
+\usepackage[empty]{fullpage}
+\usepackage{titlesec}
+\usepackage{marvosym}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{verbatim}
+\usepackage{enumitem}
+\usepackage[hidelinks]{hyperref}
+\usepackage{fancyhdr}
+\usepackage[english]{babel}
+\usepackage{tabularx}
+\usepackage{multicol}
+\input{glyphtounicode}
+
+%----------FONT OPTIONS----------
+% sans-serif
+% \usepackage[sfdefault]{FiraSans}
+% \usepackage[sfdefault]{roboto}
+% \usepackage[sfdefault]{noto-sans}
+% \usepackage[default]{sourcesanspro}
+
+% serif
+% \usepackage{CormorantGaramond}
+\usepackage{charter}
+
+\pagestyle{fancy}
+\fancyhf{} % clear all header and footer fields
+\fancyfoot{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+% Adjust margins
+\addtolength{\oddsidemargin}{-0.5in}
+\addtolength{\evensidemargin}{-0.5in}
+\addtolength{\textwidth}{0.5in}
+\addtolength{\topmargin}{-.5in}
+\addtolength{\textheight}{1.0in}
+
+\urlstyle{same}
+
+\raggedbottom
+\raggedright
+\setlength{\tabcolsep}{0in}
+
+% Sections formatting
+\titleformat{\section}{
+  \vspace{-8pt}\scshape\raggedright\large
+}{}{0em}{}[\color{black}\titlerule \vspace{-6pt}]
+
+% Ensure that generated pdf is machine readable/ATS parsable
+\pdfgentounicode=1
+
+%-------------------------
+% Custom commands
+\newcommand{\resumeItem}[1]{
+  \item\small{
+    {#1 \vspace{-2pt}}
+  }
+}
+
+\newcommand{\resumeSubheading}[4]{
+  \vspace{-2pt}\item
+    \begin{tabular*}{0.97\textwidth}[t]{l@{\extracolsep{\fill}}r}
+      \textbf{#1} & #2 \\
+      \textit{\small#3} & \textit{\small #4} \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeSubSubheading}[2]{
+    \item
+    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+      \textit{\small#1} & \textit{\small #2} \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeProjectHeading}[2]{
+    \item
+    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+      \small#1 & #2 \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeSubItem}[1]{\resumeItem{#1}\vspace{-4pt}}
+
+\renewcommand\labelitemii{$\vcenter{\hbox{\tiny$\bullet$}}$}
+
+\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=0.15in, label={}]}
+\newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
+\newcommand{\resumeItemListStart}{\begin{itemize}[leftmargin=0.2in]}
+\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-5pt}}
+
+\begin{document}
+
+\begin{center}
+    \textbf{\Huge \scshape DHRUMAN GUPTA} \\ \vspace{2pt}
+    \small 8375911611 $|$ \href{mailto:dhrumangupta06@gmail.com}{\underline{dhrumangupta06@gmail.com}} $|$ \href{https://linkedin.com/in/dhrumangupta}{\underline{linkedin.com/in/dhrumangupta}} $|$ \href{https://berlm.me}{\underline{berlm.me}} \\
+\end{center}
+
+%-----------EDUCATION-----------
+\section{Education}
+  \resumeSubHeadingListStart
+    \resumeSubheading
+      {Ashoka University}{}
+      {B.Sc (Hons) in Mathematics and Computer Science with Research; CGPA: 3.91/4; Major CGPA: 4.0/4}{Expected 2027}
+    \resumeSubheading
+      {Pathways School Noida}{}
+      {Class XII, International Baccalaureate (IB); Score: 96\%}{2023}
+  \resumeSubHeadingListEnd
+
+%-----------RELEVANT COURSEWORK-----------
+\section{Relevant Coursework}\vspace{-10pt}
+\begin{multicols}{2}
+\begin{itemize}[leftmargin=*, noitemsep, topsep=-10pt]
+    \item Real Analysis
+    \item Design and Analysis of Algorithms
+    \item Introduction to Machine Learning
+    \item Reinforcement Learning
+\end{itemize}
+\end{multicols}
+
+%-----------RESEARCH EXPERIENCE-----------
+\section{Research Experience}
+  \resumeSubHeadingListStart
+
+    \resumeSubheading
+      {Undergraduate Researcher}{August 2024 -- Present}
+      {Safexpress Centre for Data, Learning and Decision Sciences}{}
+      \resumeItemListStart
+        \resumeItem{Deveoloping high-performance agent-based simulations to model disease dynamics in India; exploring pruning techniques to improve performance.}
+        \resumeItem{Exploring diffusion models to be able to sample from rare events efficiently.}
+      \resumeItemListEnd
+
+    \resumeSubheading
+      {Research Intern}{Feb 2024 -- Dec 2024}
+      {KOITA Centre for Digital Health Ashoka}{}
+      \resumeItemListStart
+        \resumeItem{Researched predicting ICU mortality using ML, achieving 10\% improvement - SCCM Congress 2025 }
+        \resumeItem{Developed architecture for a health cohort study, integrating with wearable devices and third party apps.}
+        \resumeItem{Built an agentic solution to automate informed consent, with an emphasis on empathy and }
+      \resumeItemListEnd
+
+    \resumeSubHeadingListEnd
+
+%-----------WORK EXPERIENCE-----------
+\section{Work Experience}
+\resumeSubHeadingListStart
+\resumeSubheading
+  {Platform Teams Intern}{Nov 2024 -- Jan 2025}
+  {SARVAM AI}{}
+  \resumeItemListStart
+    \resumeItem{Revamped the internal logging system, enabling enhanced analysis and monitoring of agent performance.}
+    \resumeItem{Developed a comprehensive data management platform enabling test case creation, tracking, and labeling of model calls and data, significantly streamlining the workflow for the models team.}
+    \resumeItem{Reduced CI/CD pipeline latency by 40\% through Docker optimization and layer caching strategies.}
+  \resumeItemListEnd
+
+  \resumeSubheading
+    {Founding Engineer}{Jan 2024 -- July 2024}
+    {SARVAM AI}{}
+    \resumeItemListStart
+      \resumeItem{Developed a suite of end-to-end services to facilitate fully automated AI-based calls, integrating with CMSs}
+      \resumeItem{Created server designs for on-premise and GDPR-compliant deployments for flexible deployment options}
+      \resumeItem{Developed a year-long technical roadmap along with projected costs to pitch for the seed round}
+    \resumeItemListEnd
+    \resumeSubHeadingListEnd
+
+%-----------POSITIONS OF RESPONSIBILITY-----------
+\section{Positions of Responsibility}
+  \resumeSubHeadingListStart
+    \resumeSubheading
+      {HOD, Dev Vertical}{Feb 2024 -- Present}
+      {Ashoka Computer Science Society}{}
+      \resumeItemListStart
+        \resumeItem{Mentored 10-member team to build real-world projects through weekly meetings and structured feedback.}
+      \resumeItemListEnd
+
+    \resumeSubheading
+      {Co-Founder and Deputy Head of Projects}{Mar 2024 -- Dec 2024}
+      {Ashoka Health Research Club}{}
+      \resumeItemListStart
+        \resumeItem{Ideated and co-founded AHRC, leading brainstorming, marketing, and selection processes.}
+        \resumeItem{Lead implementation of an inclusive framework to connect students with KCDHA associated faculty research.}
+      \resumeItemListEnd
+
+  \resumeSubHeadingListEnd
+
+%-----------PUBLICATIONS-----------
+\section{Publications}
+  \resumeSubHeadingListStart
+    \resumeSubheading
+      {\textbf{Ensemble model with inherently good quality data improves early mortality prediction in ICUs}}{July 2024}
+      {Critical Care Medicine}{}
+      \resumeItemListStart
+        \resumeItem{Developed a novel ensemble model and methods to identify high-quality subsets of ICU data, significantly enhancing early mortality prediction accuracy in ICU patients.}
+      \resumeItemListEnd
+  \resumeSubHeadingListEnd
+
+%-----------TECHNICAL SKILLS-----------
+\section{Technical Skills}
+ \begin{itemize}[leftmargin=0.15in, label={}]
+    \item{
+      \textbf{Languages}{: Python, JavaScript, Julia, Scala, OCaml, HTML, CSS} \\
+      \textbf{Frameworks}{: PyTorch, FastAPI, Django, Pandas, NextJs, React Native, LangChain}
+    }
+ \end{itemize}
+
+
+\end{document}
